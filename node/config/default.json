@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "19f3b6b550245154d88cf7a84df43fdc",
+    "pageAccessToken": "EAACJPHMaAuUBAHMFv2VLIqh6CtEBGHkxYFX8DZAAtGnxZC0Fzo1ZA3ugycAwlngE301LbJ0w51F72XNaOWBP9CT52RseGytjVmgBwMUz2rB7WFej98KfTOudaVl36ZCGU29tA3WPd9WzytSNQ13KM8zPf80LwSk7v89OZBmGZCJlFYTSKluOV7",
+    "validationToken": "foo",
+    "serverURL": "https://ictbot-1.herokuapp.com/"
 }
